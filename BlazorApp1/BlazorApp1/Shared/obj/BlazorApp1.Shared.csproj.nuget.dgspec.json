@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {}
+    "C:\\projects\\blazorproject\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {}
   },
   "projects": {
-    "D:\\projects\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
+    "C:\\projects\\blazorproject\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
+        "projectUniqueName": "C:\\projects\\blazorproject\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
         "projectName": "BlazorApp1.Shared",
-        "projectPath": "D:\\projects\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
+        "projectPath": "C:\\projects\\blazorproject\\BlazorApp1\\BlazorApp1\\Shared\\BlazorApp1.Shared.csproj",
         "packagesPath": "C:\\Users\\Karl\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\BlazorApp1\\BlazorApp1\\Shared\\obj\\",
+        "outputPath": "C:\\projects\\blazorproject\\BlazorApp1\\BlazorApp1\\Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\Karl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -48,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

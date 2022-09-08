@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H06EKzUHqYA/Jvt4VnydcFzP/7zKH22f17JOWeo+SKSYPiXV+74sNOZYP2BtrXgSV6ANeZzXvbO8z4AEVqDxmA==",
+  "dgSpecHash": "/9dypl4L3JdKTDgkotzgeTqLuwXWv6yS2N4wevBmVR6VCKb98TKyiIPNVwXMfU0F7elLTnIDox1WBszDclkPFA==",
   "success": true,
-  "projectFilePath": "D:\\projects\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj",
+  "projectFilePath": "C:\\projects\\blazorproject\\BlazorApp1\\BlazorApp1\\Client\\BlazorApp1.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karl\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",
     "C:\\Users\\Karl\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.7\\microsoft.aspnetcore.components.6.0.7.nupkg.sha512",
@@ -33,7 +33,7 @@
     "C:\\Users\\Karl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Karl\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Karl\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Karl\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.7.nupkg.sha512"
+    "C:\\Users\\Karl\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.8\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.8.nupkg.sha512"
   ],
   "logs": []
 }
